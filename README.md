@@ -28,7 +28,7 @@ $ cd Shopping_List_Program
 1. Print to console all items in list [Print List]
 1. Return a specific item based on its index [Show List]
    1. If you enter an index out of range, program returns an error message "Invalid Number"
-1. Exit shopping list proogram [Exit Program]
+1. Exit shopping list program [Exit Program]
 
 ### Shopping List Program output
 
